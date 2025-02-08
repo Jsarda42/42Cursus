@@ -62,9 +62,9 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td><a href="./Minitalk/Subject.pdf">Minitalk Subject</a></td>
     </tr>
     <tr>
-      <td><i>fract-ol</i>, so_long, FdF</td>
+      <td>So_long</td>
       <td>C, Makefile & minilibx</td>
-      <td><a href="fract-ol">fract-ol</a></td>
+      <td><a href="So_long">So_long</a></td>
       <td>N/A vizualize the graphic program</td>
     </tr>
     <tr>

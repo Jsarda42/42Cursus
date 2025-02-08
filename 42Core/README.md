@@ -58,8 +58,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>pipex</td>
       <td>C, Makefile & UNIX</td>
-      <td><a href="pipex">pipex</a></td>
-      <td><a href="../42Documentation/UnixProcesses">Unix Processes (Exercises)</a></td>
+      <td><a href="Minitalk">pipex</a></td>
+      <td><a href="./Minitalk/Subject.pdf">Minitalk Subject</a></td>
     </tr>
     <tr>
       <td><i>fract-ol</i>, so_long, FdF</td>

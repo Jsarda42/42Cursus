@@ -16,8 +16,6 @@
 | Folder | About |
 | ------ | ------ |
 | 42Core | [Common Core Projects](42Core/) |
-| 42Piscine | [Piscine at 42Lisboa](42Piscine/) |
-| 42Documentation | [Random Docuentation](42Documentation) |
 
 _Random Documentation is anything from games, exams, tutorials, guides, templates ;etc..._
 

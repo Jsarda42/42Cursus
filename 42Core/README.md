@@ -23,7 +23,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>Libft</td>
       <td>C & Makefile</td>
       <td><a href="Libft">Libft</a></td>
-      <td><a href="../42Documentation/libft_tests">libft tests</a></td>
+      <td><a href="Subject.pdf">libft Subject</a></td>
     </tr>
     <tr>
       <td>ft_printf</td>

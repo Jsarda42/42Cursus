@@ -77,7 +77,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>Philosophers</td>
       <td>C, Makefile & Unix Threads</td>
       <td><a href="Philosophers">Philosophers</a></td>
-      <td><a href="./Philosophers/Subject.pdf">Unix Processes</a></td>
+      <td><a href="./Philosophers/Subject.pdf">Philosophers Subject</a></td>
     </tr>
     <tr>
       <td>Minishell</td>

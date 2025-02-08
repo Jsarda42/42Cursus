@@ -56,9 +56,9 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td><a href="./Push_Swap/Subject.pdf">push swap Subject</a></td>
     </tr>
     <tr>
-      <td>pipex</td>
+      <td>Minitalk</td>
       <td>C, Makefile & UNIX</td>
-      <td><a href="Minitalk">pipex</a></td>
+      <td><a href="Minitalk">Minitalk</a></td>
       <td><a href="./Minitalk/Subject.pdf">Minitalk Subject</a></td>
     </tr>
     <tr>

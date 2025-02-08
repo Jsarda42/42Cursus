@@ -70,7 +70,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>exam rank3</td>
       <td>C</td>
-      <td><a href="../42Documentation/Exam_Rank_03">Exam Rank 3 micropaint/minipaint</a></td>
+      <td>Exam Rank 3</td>
       <td>N/A</td>
     </tr>
     <tr>

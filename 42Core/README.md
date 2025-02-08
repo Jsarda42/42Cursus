@@ -28,8 +28,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>ft_printf</td>
       <td>C & Makefile</td>
-      <td><a href="ft printf">ft printf</a></td>
-      <td><a href="./ft printf/Subject.pdf">ft printf Subject</a></td>
+      <td><a href="ft_printf">ft_printf</a></td>
+      <td><a href="./ft_printf/Subject.pdf">ft printf Subject</a></td>
     </tr>
     <tr>
       <td>get_next_line</td>
@@ -52,14 +52,14 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>push_swap</td>
       <td>C & Makefile</td>
-      <td><a href="push_swap">push swap</a></td>
-      <td><a href="../42Documentation/push_swap_tests">push swap tests</a></td>
+      <td><a href="Push_Swap">push swap</a></td>
+      <td><a href="./Push_Swap/Subject.pdf">push swap Subject</a></td>
     </tr>
     <tr>
       <td>pipex</td>
       <td>C, Makefile & UNIX</td>
-      <td><a href="pipex">pipex</a></td>
-      <td><a href="../42Documentation/UnixProcesses">Unix Processes (Exercises)</a></td>
+      <td><a href="Minitalk">pipex</a></td>
+      <td><a href="./Minitalk/Subject.pdf">Minitalk Subject</a></td>
     </tr>
     <tr>
       <td><i>fract-ol</i>, so_long, FdF</td>

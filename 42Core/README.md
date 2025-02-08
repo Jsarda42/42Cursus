@@ -52,8 +52,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>push_swap</td>
       <td>C & Makefile</td>
-      <td><a href="push_swap">push swap</a></td>
-      <td><a href="../42Documentation/push_swap_tests">push swap tests</a></td>
+      <td><a href="Push_Swap">push swap</a></td>
+      <td><a href="./Push_Swap">push swap Subject</a></td>
     </tr>
     <tr>
       <td>pipex</td>

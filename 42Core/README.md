@@ -70,7 +70,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>exam rank3</td>
       <td>C</td>
-      <td>Exam Rank 3</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>

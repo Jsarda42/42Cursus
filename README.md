@@ -11,7 +11,7 @@
 
 ---
 ## About...
-##### This repository contains all the work I do while stydying at 42Paris
+##### This repository contains all the work I do while studying at 42Paris
 
 | Folder | About |
 | ------ | ------ |

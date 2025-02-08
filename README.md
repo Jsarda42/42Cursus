@@ -17,8 +17,6 @@
 | ------ | ------ |
 | 42Core | [Common Core Projects](42Core/) |
 
-_Random Documentation is anything from games, exams, tutorials, guides, templates ;etc..._
-
 ***
 
 ## Cursur Map

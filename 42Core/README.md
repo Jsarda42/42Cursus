@@ -15,7 +15,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <th>Exercices</th>
       <th>Languages</th>
       <th>Solutions</th>
-      <th>Tests / Docs</th>
+      <th>Subjects</th>
     </tr>
   </thead>
   <tbody>

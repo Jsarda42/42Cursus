@@ -76,8 +76,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>Philosophers</td>
       <td>C, Makefile & Unix Threads</td>
-      <td><a href="philosophers">Philosophers</a></td>
-      <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Documentation/UnixProcesses">Unix Processes</a></td>
+      <td><a href="Philosophers">Philosophers</a></td>
+      <td><a href="./Philosophers/Subject.pdf">Unix Processes</a></td>
     </tr>
     <tr>
       <td>Minishell</td>

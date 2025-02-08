@@ -65,7 +65,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>So_long</td>
       <td>C, Makefile & minilibx</td>
       <td><a href="So_long">So_long</a></td>
-      <td>N/A vizualize the graphic program</td>
+      <td><a href="./So_long/Subject.pdf">So_long Subject</td>
     </tr>
     <tr>
       <td>exam rank3</td>

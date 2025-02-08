@@ -29,13 +29,13 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>ft_printf</td>
       <td>C & Makefile</td>
       <td><a href="ft printf">ft printf</a></td>
-      <td><a href="./Libft/Subject.pdf">ft printf Subject</a></td>
+      <td><a href="./ft printf/Subject.pdf">ft printf Subject</a></td>
     </tr>
     <tr>
       <td>get_next_line</td>
       <td>C & Makefile</td>
-      <td><a href="get_next_line">get next line</a></td>
-      <td><a href="../42Documentation/gnl_game">gnl game tester</a></td>
+      <td><a href="Gnl">get next line</a></td>
+      <td><a href="./Gnl/Subject.pdf">Gnl Subject</a></td>
     </tr>
     <tr>
       <td>Born2beroot</td>

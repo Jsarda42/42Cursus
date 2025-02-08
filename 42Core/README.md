@@ -5,9 +5,9 @@
 #### Here you will find some of the exercises I deveoped while studying at 42Paris
 
 If you find this usefull im happy for you, but remember that copying won't do any good for you.
-Find your own solutions, and if you are inspired with mine im gladd ;)
+Find your own solutions, and if you are inspired with mine im gladd 😉
 
-## Devopment Dependencies
+## Development Dependencies
 
 <table>
   <thead>
@@ -20,16 +20,10 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
   </thead>
   <tbody>
     <tr>
-      <td colspan="4"><b>lvl 0</b></td>
-    </tr>
-    <tr>
       <td>Libft</td>
       <td>C & Makefile</td>
       <td><a href="Libft">Libft</a></td>
       <td><a href="../42Documentation/libft_tests">libft tests</a></td>
-    </tr>
-    <tr>
-      <td colspan="4"><b>lvl 1</b></td>
     </tr>
     <tr>
       <td>ft_printf</td>
@@ -56,9 +50,6 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
       <td>N/A</td>
     </tr>
     <tr>
-      <td colspan="4"><b>lvl 2</b></td>
-    </tr>
-    <tr>
       <td>push_swap</td>
       <td>C & Makefile</td>
       <td><a href="push_swap">push swap</a></td>
@@ -83,9 +74,6 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
       <td>N/A</td>
     </tr>
     <tr>
-      <td colspan="4"><b>lvl 3</b></td>
-    </tr>
-    <tr>
       <td>Philosophers</td>
       <td>C, Makefile & Unix Threads</td>
       <td><a href="philosophers">Philosophers</a></td>
@@ -96,9 +84,6 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
       <td>C, Makefile & Bash</td>
       <td><a href="minishell">Minishell</a></td>
       <td>N/A</td>
-    </tr>
-    <tr>
-      <td colspan="4"><b>lvl 4</b></td>
     </tr>
     <tr>
       <td>cub3d</td>
@@ -125,9 +110,6 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
       <td>N/A</td>
     </tr>
     <tr>
-      <td colspan="4"><b>lvl 5</b></td>
-    </tr>
-    <tr>
       <td>ft_containers</td>
       <td>C++, Makefile & STL</td>
       <td><a href="ft_containers">ft containers</a></td>
@@ -150,9 +132,6 @@ Find your own solutions, and if you are inspired with mine im gladd ;)
       <td>C++</td>
       <td><a href="../42Documentation/Exam_Rank_05">Exam Rank 5 Warlock</a></td>
       <td>N/A</td>
-    </tr>
-    <tr>
-      <td colspan="4"><b>lvl 6</b></td>
     </tr>
     <tr>
       <td>ft_transcendence</td>

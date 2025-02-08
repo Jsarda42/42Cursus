@@ -28,7 +28,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>ft_printf</td>
       <td>C & Makefile</td>
-      <td><a href="ft printf">ft printf</a></td>
+      <td><a href="ft_printf">ft_printf</a></td>
       <td><a href="./ft printf/Subject.pdf">ft printf Subject</a></td>
     </tr>
     <tr>

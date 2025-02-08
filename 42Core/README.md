@@ -29,7 +29,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>ft_printf</td>
       <td>C & Makefile</td>
       <td><a href="ft printf">ft printf</a></td>
-      <td><a href="../42Documentation/ft_printf_tests">ft printf tests</a></td>
+      <td><a href="./Libft/Subject.pdf">ft printf tests</a></td>
     </tr>
     <tr>
       <td>get_next_line</td>

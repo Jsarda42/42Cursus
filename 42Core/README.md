@@ -62,13 +62,6 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td><a href="./Born2beRoot/README.md">See Desciption</a></td>
     </tr>
     <tr>
-      <td>exam rank2</td>
-      <td>C</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
-    </tr>
-    <tr>
       <td>push_swap</td>
       <td>C & Makefile</td>
       <td><a href="Push_Swap">Push swap repo</a></td>
@@ -88,13 +81,6 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td><a href="So_long">So_long repo</a></td>
       <td><a href="./So_long/Subject.pdf">Link to Subject</td>
         <td><a href="">See Desciption</a></td>
-    </tr>
-    <tr>
-      <td>exam rank3</td>
-      <td>C</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>Philosophers</td>
@@ -189,13 +175,6 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
-      <td>exam rank4</td>
-      <td>C</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
-    </tr>
-    <tr>
       <td>Inception</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
       <td><a href="./inception">Inception repo</a></td>
@@ -210,24 +189,10 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
-      <td>exam rank 5</td>
-      <td>C++</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
-    </tr>
-    <tr>
       <td>ft_transcendence</td>
       <td>NestJS, Vue3, PostgreSQL</td>
       <td><a href="ft_transcendence">ft_transcendence repo</a></td>
       <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Documentation/TS_practice">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
-    </tr>
-    <tr>
-      <td>exam rank 6</td>
-      <td>C (sockets)</td>
-      <td>N/A</td>
-      <td>N/A</td>
       <td><a href="">See Desciption</a></td>
     </tr>
   </tbody>

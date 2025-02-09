@@ -136,6 +136,11 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td><a href="./CPPModules/CPPModule06">CPP06</a></td>
       <td><a href="./CPPModules/CPPModule06/Subject.pdf">CPP06 Subject</a></td>
     </tr>
+    <td>CPPModule07</td>
+      <td>C++, Makefile</td>
+      <td><a href="./CPPModules/CPPModule07">CPP07</a></td>
+      <td><a href="./CPPModules/CPPModule07/Subject.pdf">CPP07 Subject</a></td>
+    </tr>
     <tr>
       <td>exam rank4</td>
       <td>C</td>

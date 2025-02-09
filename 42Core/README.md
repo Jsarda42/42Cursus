@@ -70,14 +70,14 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>exam rank3</td>
       <td>C</td>
-      <td><a href="../42Documentation/Exam_Rank_03">Exam Rank 3 micropaint/minipaint</a></td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Philosophers</td>
       <td>C, Makefile & Unix Threads</td>
-      <td><a href="philosophers">Philosophers</a></td>
-      <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Documentation/UnixProcesses">Unix Processes</a></td>
+      <td><a href="Philosophers">Philosophers</a></td>
+      <td><a href="./Philosophers/Subject.pdf">Philosophers Subject</a></td>
     </tr>
     <tr>
       <td>Minishell</td>

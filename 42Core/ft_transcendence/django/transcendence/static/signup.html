@@ -1,0 +1,46 @@
+<div class="row justify-content-center" style="height: 100vh;">
+	<div class="page-container">
+		<div class="signup-container col-12 col-md-6 col-lg-4">
+			<h2 data-translate="signup" class="text-center mb-4"></h2>
+			<form>
+				<!-- Username Field -->
+				<div class="form-group">
+					<label data-translate="username" for="username"></label>
+					<input type="text" class="form-control" id="username" data-translate-placeholder="usernamePlaceholder" required>
+				</div>
+
+				<!-- Email Field -->
+				<div class="form-group">
+					<label data-translate="email" for="email"></label>
+					<input data-translate-placeholder="emailPlaceholder" type="email" class="form-control" id="email" placeholder="Enter your email" required>
+				</div>
+
+				<!-- Password Field -->
+				<div class="form-group">
+					<label data-translate="password" for="password"></label>
+					<input data-translate-placeholder="passwordPlaceholder" type="password" class="form-control" id="password" placeholder="Enter your password" required>
+				</div>
+
+				<!-- Confirm Password Field -->
+				<div class="form-group">
+					<label data-translate="confirmPassword" for="confirm-password"></label>
+					<input type="password" data-translate-placeholder="passwordPlaceholder" class="form-control " id="confirm-password" placeholder=""
+						required>
+				</div>
+
+				<!-- Submit Button -->
+				<button type="submit" data-translate="Createaccountbutton" class="btn btn-success btn-block "></button>
+			</form>
+
+			<div class="text-center mt-3">
+				<span data-translate="haveaccount" class="text-light"></span>
+				<a data-translate="signin" id="signin-link" href="signin.html"></a>
+			</div>
+			<div class="text-center mt-3">
+				<a href="/auth/42/start/">
+					<button data-translate="connectwith42" type="button" class="btn btn-primary btn-block "></button>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>

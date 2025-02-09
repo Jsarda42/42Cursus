@@ -1,0 +1,58 @@
+networks:
+  app_network:
+    driver: bridge
+
+services:
+  nginx:
+    container_name: nginx
+    ports:
+      - "3000:3000"
+    build:
+      context: .
+      dockerfile: nginx/Dockerfile
+    networks:
+      - app_network
+  postgres:
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    container_name: postgres
+    build:
+      context: .
+      dockerfile: postgres/Dockerfile
+    env_file:
+      - .env
+    networks:
+      - app_network
+  django:
+    container_name: django
+    build:
+      context: .
+      dockerfile: django/Dockerfile
+    volumes:
+      - ./django/transcendence/static:/app/static
+      - ./django/transcendence/templates:/app/templates
+      - media_volume:/app/media 
+    networks:
+      - app_network
+ 
+  redis:
+    image : redis:7
+    expose:
+      - "6379"
+    container_name: redis
+    networks:
+      - app_network
+
+volumes:
+  media_volume:
+    driver: local
+    driver_opts:
+      type: none
+      device: django/transcendence/media
+      o: bind
+  postgres_data:
+    driver: local
+    driver_opts:
+      type: none
+      device: postgres/data
+      o: bind

@@ -1,0 +1,5 @@
+.env
+django/transcendence/media/*
+postgres/data/*
+!.gitkeep
+.DS_Store

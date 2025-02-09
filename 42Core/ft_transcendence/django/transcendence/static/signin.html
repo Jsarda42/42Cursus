@@ -1,0 +1,33 @@
+<div class="row justify-content-center" style="height: 100vh;">
+	<div class="signin-container col-12 col-md-6 col-lg-4">
+		<h2 data-translate="signin" class="text-center mb-4"></h2>
+		<form>
+			<div class="form-group">
+				<label  data-translate="email" for="email"></label>
+				<input type="email" class="form-control" id="email" data-translate-placeholder="emailPlaceholder"
+					required>
+			</div>
+			<div class="form-group">
+				<label data-translate="password" for="password"></label>
+				<input type="password" class="form-control" id="password" placeholder=""
+					data-translate-placeholder="passwordPlaceholder" required>
+			</div>
+			<button data-translate="signin" type="submit" class="btn btn-success btn-block"></button>
+		</form>
+
+		<div class="text-center mt-3">
+			<a href="/auth/42/start/">
+				<button data-translate="connectwith42" type="button" class="btn btn-primary btn-block "></button>
+			</a>
+
+		</div>
+		<div class="text-center mt-3">
+			<span data-translate="noaccount" class="text-light"></span>
+			<a id="signup-link" data-translate="Createaccount" href="#"></a>
+		</div>
+
+		<div id="modalContainer" class="modal" style="display:none;">
+		</div>
+
+	</div>
+</div>

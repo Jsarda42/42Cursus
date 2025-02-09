@@ -1,0 +1,84 @@
+.signup-container {
+	width: 100%;
+	margin: auto;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.page-container {
+	width: 100%;
+	max-width: 600px;
+	margin: auto;
+	padding: 40px;
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+  }
+
+label {
+	color: white;
+}
+.btn {
+	background-color: #463e76;
+	border: none;
+}
+
+h2 {
+	color: white;
+}
+
+.btn:hover {
+	background-color: #3d3666;
+	border: none;
+}
+
+.form-control {
+	color: white;
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 25px;
+	font-size: 1rem;
+	transition: all 0.3s ease;
+}
+
+.form-control::-webkit-input-placeholder {
+	color: gray;
+}
+
+.form-control:-ms-input-placeholder {
+	color: gray;
+}
+
+.form-control::placeholder {
+	color: gray;
+}
+
+.form-control:focus::placeholder {
+	color: black;
+}
+
+.btn-primary {
+	display: block;
+	width: 100%;
+	margin: 20px auto 0;
+	text-align: center;
+	padding: 12px;
+	border-radius: 5px;
+	transition: all 0.3s ease;
+}
+
+.btn-primary {
+	background-color: rgba(var(--bs-link-color-rgb),var(--bs-link-opacity,1));
+	border-color: #007bff;
+	color: white;
+	
+}
+
+.btn-primary:hover {
+	background-color: #0056b3;
+	border-color: #004085;
+}

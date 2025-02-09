@@ -1,0 +1,257 @@
+html,
+body {
+	height: 100vh;
+	overflow: hidden;
+}
+
+.error-message {
+	position: fixed;
+	top: 20px;
+	left: 58%;
+	transform: translateX(-50%);
+	background-color: red;
+	color: white;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	z-index: 1000;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.valid-message {
+	position: fixed;
+	top: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: red;
+	color: white;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	z-index: 1000;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#tournament-container{
+	place-items: center;
+	border:#282248 solid 2px;
+	border-radius: 20px;
+	margin-bottom: 2.5%;
+}
+
+#player-form-container{
+	text-align-last: center;
+	border:#282248 solid 2px;
+	border-radius: 20px
+}
+
+.slider {
+	position: relative;
+	width: 300px;
+	height: 10px;
+	background-color: #ddd;
+	border-radius: 5px;
+	margin: 20px 0;
+  }
+
+  .thumb {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: #4caf50;
+	border-radius: 50%;
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+  }
+
+  .value {
+	font-size: 20px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.board-game {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: #463e75;
+}
+
+canvas {
+  border : 1px solid;
+  background-color:#005678;
+  border-top-color: whitesmoke;
+  border-bottom-color: whitesmoke;
+  }
+
+.title-police {
+	font-family: "Jersey 15", serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.text-police {
+	font-family: "Poppins", serif;
+	font-weight: 100;
+	font-style: normal;
+	color: white;
+}
+
+.how-to-play-text {
+	text-align: center;
+	padding: 2%;
+}
+
+
+#main-content {
+	overflow-y: auto;
+	/* Enable scrolling for content area */
+	height: 100vh;
+	/* Full viewport height */
+	background: radial-gradient(circle, #463e75 0%, #5b5483 100%);
+}
+
+i {
+	color: white;
+}
+
+/* home page css */
+.home-box {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	height: 100vh;
+}
+
+.hero {
+	width: 100%;
+	min-height: 200px;
+	overflow: hidden;
+	position: relative;
+	border-radius: 20px;
+	box-shadow: 3px 2px 5px black;
+}
+
+.heroImg {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	min-width: 100%;
+	min-height: 100%;
+	object-fit: cover;
+}
+
+span {
+	text-decoration: none;
+	color: white;
+}
+
+.dropdown-login {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	gap: 10px;
+}
+
+.bg-dark {
+	background: linear-gradient(to left, #463e75, #463e75);
+}
+
+.nav-header-title {
+	margin-bottom: 0;
+}
+
+.nav-header {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 10px;
+	align-items: center;
+	gap: 10px;
+	background: linear-gradient(to right, #5b5191, #756caa);
+}
+
+.logo {
+	width: 40px;
+}
+
+.langage-selector {
+	-webkit-appearance: none;
+	margin-left: 5px;
+	-moz-appearance: none;
+	appearance: none;
+	background-color: transparent;
+	border: none;
+	outline: none;
+}
+
+.langage-selector option {
+	background-color: #463e75;
+	color: white;
+}
+
+.leaderboard-card-container {
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.leaderboard-card-container-title {
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.card-img-top {
+	background: linear-gradient(to right, rgb(242, 242, 244), #86829b);
+	width: 100px;
+	height: 100px;
+	border-radius: 20px;
+}
+
+.dropdown-toggle::after {
+	display: none !important;
+	/* Hides the dropdown arrow */
+}
+
+
+.card {
+	height: 100%;
+	background: none;
+	color: white;
+	align-items: center;
+	border: none;
+	text-align: center;
+}
+
+.leaderboard-container {
+	border: #282248 solid 2px;
+	border-radius: 20px;
+	width: 100%;
+	min-width: none !important;
+	max-width: none !important;
+	margin: 0;
+}
+
+.nav-items {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 80vh;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.nav-header-title {
+		display: none;
+	}
+	.label-langage {
+		display: none;
+	}
+}
+
+
+@import 'bootstrap/dist/css/bootstrap.min.css';

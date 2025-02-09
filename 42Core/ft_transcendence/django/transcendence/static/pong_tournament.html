@@ -1,0 +1,43 @@
+<div class="container mt-5" id="tournament-container">
+    <h2>Tournament Mode</h2>
+    <button id="start-tournament-btn" class="btn btn-outline-success mx-2" >Join the tournament</button>
+    
+    <div id="match-status">
+        <h3>Current Match</h3>
+        <p id="match-info">Waiting for players...</p>
+    </div>
+    
+    <div id="tournament-bracket" style="display: none;">
+        <h3>Tournament Progress</h3>
+        <ul id="bracket-list"></ul>
+    </div>
+
+    <div id="final-results" style="display: none;">
+        <h3>🏆 Final Winner</h3>
+        <p id="winner-name"></p>
+    </div>
+</div>
+
+<!-- Player Form -->
+<div id="player-form-container" class="container mt-5" style="display: none;">
+    <h3>Enter Player Names</h3>
+    <div>
+        <input type="text" id="player1" placeholder="Player 1 Name">
+        <input type="text" id="player2" placeholder="Player 2 Name">
+        <input type="text" id="player3" placeholder="Player 3 Name">
+        <input type="text" id="player4" placeholder="Player 4 Name">
+    </div>
+    <div>
+        <button id="submit-players" class="btn btn-outline-success mx-2" >Start Tournament</button>
+    </div>
+</div>
+
+<!-- Pong Game Canvas -->
+<div id="game-container" style="display: none;">
+    <canvas id="pong-canvas"></canvas>
+    
+    <div id="game-controls">
+        <button id="start-button" class="btn btn-outline-success mx-2" style="display:inline-block"> Start</button>
+		<button id="stop-button" class="btn btn-outline-danger mx-2" style="display: none;">Exit</button>
+    </div>
+</div>

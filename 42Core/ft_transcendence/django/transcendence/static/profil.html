@@ -1,0 +1,41 @@
+<div id="profil-content">
+    <div class="banner">
+        <div class="profile-container">
+            <img src="/static/images/login.jpg" alt="Profile Image" class="profile-pic">
+
+            <span class="data-container">
+                <input type="text" class="profile-name-edit" value="user" disabled>
+                <button data-translate="save" type="button" class="btn btn-success profile-name-btn-save"></button>
+                <button data-translate="edit" type="button" class="btn btn-primary profile-name-btn-edit"></button>
+                <button data-translate="undo" type="button" class="btn btn-warning profile-name-btn-reset"></button>
+            </span>
+
+            <button data-translate="disable2FA" id="disable-2fa-btn" class="btn btn-info"></button>
+            <button data-translate="enable2FA" id="enable-2fa-btn" class="btn btn-info"></button>
+
+            
+            <div id="count">
+                <span class="win-count" class="stat-class">
+                    <span data-translate="win"></span>
+                    <span class="number">0</span>
+                </span>
+                <span class="loose-count" class="stat-class">
+                    <span data-translate="loose"></span>
+                    <span class="number">0</span>
+                </span>
+            </div>
+            
+            <span id="data-message"></span>
+
+            <div class="friend-list-container">
+                <h3 data-translate="yourfriends"></h3>
+                <ul id="friend-list"></ul>
+            </div>
+
+            <div class="match-history-container">
+                <h3 data-translate="matchhistory">Match History</h3>
+                <ul id="match-history-list"></ul>
+            </div>
+        </div>
+    </div>
+</div>

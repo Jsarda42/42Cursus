@@ -1,0 +1,123 @@
+#profil-content{
+    background-color: #3d3666;
+    color: white;
+    min-height: 460px;
+    border-radius: 25px;
+}
+
+#profil-content .banner{
+    background-image: url('/static/images/pongImgCrop.webp');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    border-radius: 25px 25px 0 0;
+
+}
+
+#profil-content .profile-container
+{
+    padding: 20px;
+    padding-top: 125px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#profil-content .data-container
+{
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    gap: 5px;
+    background-color: #574e8b;
+    border-radius: 10px;
+}
+
+#profil-content .profile-pic{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid #506aff;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+
+#profil-content .profile-pic:hover:not(.not-you){
+    cursor: pointer;
+    filter: brightness(0.8);
+}
+
+#profil-content .profile-name{
+    color: white;
+    font-size: 1.5rem;
+}
+
+#profil-content .profile-name-btn-save{
+    display: none;
+}
+
+#profil-content .profile-name-edit{
+    border-radius: 5px;
+    border: none;
+    text-align: left;
+
+}
+
+#profil-content .profile-name-edit:disabled{
+    background-color: transparent;
+    color: white;
+    font-size: 1.5rem;
+    font-size: medium;
+}
+
+#profil-content .profile-name-btn-reset{
+    display: none;
+}
+
+#data-message.error{
+    color: #ed5555;
+}
+
+#data-message.success{
+    color: #bdd1a0;
+}
+
+
+
+.friend-list-container{
+    margin-top: 75px;
+    text-align: left;
+}
+
+#friend-list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#friend-list img{
+    margin-right: 10px;
+}
+
+#match-history-list {
+    list-style-type: none;
+    padding: 5px;
+}
+#match-history-list li{
+    background-color: #574e8b;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#match-history-list li span{
+    padding: 5px;
+}
+
+#match-history-list li span:nth-child(2) {
+    background-color: #506aff;
+    border-radius: 5px;
+}

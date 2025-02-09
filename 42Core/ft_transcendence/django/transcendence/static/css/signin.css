@@ -1,0 +1,113 @@
+.signin-container {
+	width: 100%;
+	max-width: 600px;
+	margin: auto;
+	padding: 40px;
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 10px;
+}
+
+.modal {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: none;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.modal-content {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	text-align: center;
+	width: 50%;
+	background: rgba(0, 0, 0, 0.8);
+	align-items: center;
+}
+
+.modal-p {
+	color: white;
+}
+
+.modal-content div {
+	display: flex;
+	gap: 10px;
+	margin-top: 10px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+label {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+.form-control {
+	color: white;
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 25px;
+	font-size: 1rem;
+	transition: all 0.3s ease;
+}
+
+.form-control::-webkit-input-placeholder {
+	color: gray;
+}
+
+.form-control:-ms-input-placeholder {
+	color: gray;
+}
+
+.form-control::placeholder {
+	color: gray;
+}
+
+.form-control:focus::placeholder {
+	color: black;
+}
+
+.btn-primary {
+	display: block;
+	width: 100%;
+	margin: 20px auto 0;
+	text-align: center;
+	padding: 12px;
+	border-radius: 5px;
+	transition: all 0.3s ease;
+}
+
+.btn-primary {
+	background-color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+	border-color: #007bff;
+	color: white;
+
+}
+
+.btn-primary:hover {
+	background-color: #0056b3;
+	border-color: #004085;
+}
+
+.text-light {
+	color: #f8f9fa;
+}
+
+
+@media (max-width: 767px) {
+	.signin-container {
+		padding: 25px;
+	}
+}

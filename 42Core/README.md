@@ -98,6 +98,12 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>N/A</td>
     </tr>
     <tr>
+      <td>CPPModule00</td>
+      <td>C++, Makefile</td>
+      <td><a href="./CPPModules/CPPModule00">CPP00</a></td>
+      <td><a href="./CPPModules/CPPModule00/Subject.pdf">CPP00 Subject</a></td>
+    </tr>
+    <tr>
       <td>CPPModule01</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule01">CPP01</a></td>

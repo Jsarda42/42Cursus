@@ -83,6 +83,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>Minishell</td>
       <td>C, Makefile & Bash</td>
       <td><a href="minishell">Minishell</a></td>
+      <td><a href="./minishell/Subject.pdf">Minishell Subject</a></td>
       <td>N/A</td>
     </tr>
     <tr>

@@ -115,64 +115,64 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule00">CPP00 repo</a></td>
       <td><a href="./CPPModules/CPPModule00/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule00/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>CPPModule01</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule01">CPP01 repo</a></td>
       <td><a href="./CPPModules/CPPModule01/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+     <td><a href="./CPPModules/CPPModule01/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>CPPModule02</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule02">CPP02 repo</a></td>
       <td><a href="./CPPModules/CPPModule02/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule02/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule03</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule03">CPP03 repo</a></td>
       <td><a href="./CPPModules/CPPModule03/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule03/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule04</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule04">CPP04 repo</a></td>
       <td><a href="./CPPModules/CPPModule04/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule04/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule05</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule05">CPP05 repo</a></td>
       <td><a href="./CPPModules/CPPModule05/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule05/README.md">See Desciption</a></td>
     </tr>
     <tr>
     <td>CPPModule06</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule06">CPP06 repo</a></td>
       <td><a href="./CPPModules/CPPModule06/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule06/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule07</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule07">CPP07 repo</a></td>
       <td><a href="./CPPModules/CPPModule07/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule07/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule08</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule08">CPP08 repo</a></td>
       <td><a href="./CPPModules/CPPModule08/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule08/README.md">See Desciption</a></td>
     </tr>
     <td>CPPModule09</td>
       <td>C++, Makefile</td>
       <td><a href="./CPPModules/CPPModule09">CPP09 repo</a></td>
       <td><a href="./CPPModules/CPPModule09/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./CPPModules/CPPModule09/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>Inception</td>

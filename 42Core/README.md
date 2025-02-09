@@ -36,21 +36,21 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>Libft</td>
       <td>C & Makefile</td>
-      <td><a href="Libft">Libft</a></td>
+      <td><a href="Libft">Libft repo</a></td>
       <td><a href="./Libft/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>ft_printf</td>
       <td>C & Makefile</td>
-      <td><a href="ft_printf">ft_printf</a></td>
+      <td><a href="ft_printf">ft_printf repo</a></td>
       <td><a href="./ft_printf/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>get_next_line</td>
       <td>C & Makefile</td>
-      <td><a href="Gnl">get next line</a></td>
+      <td><a href="Gnl">get next line repo</a></td>
       <td><a href="./Gnl/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
@@ -71,21 +71,21 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>push_swap</td>
       <td>C & Makefile</td>
-      <td><a href="Push_Swap">push swap</a></td>
+      <td><a href="Push_Swap">Push swap repo</a></td>
       <td><a href="./Push_Swap/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>Minitalk</td>
       <td>C, Makefile & UNIX</td>
-      <td><a href="Minitalk">Minitalk</a></td>
+      <td><a href="Minitalk">Minitalk repo</a></td>
       <td><a href="./Minitalk/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>So_long</td>
       <td>C, Makefile & minilibx</td>
-      <td><a href="So_long">So_long</a></td>
+      <td><a href="So_long">So_long repo</a></td>
       <td><a href="./So_long/Subject.pdf">Link to Subject</td>
         <td><a href="">See Desciption</a></td>
     </tr>
@@ -99,21 +99,21 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>Philosophers</td>
       <td>C, Makefile & Unix Threads</td>
-      <td><a href="Philosophers">Philosophers</a></td>
+      <td><a href="Philosophers">Philosophers repo</a></td>
       <td><a href="./Philosophers/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>Minishell</td>
       <td>C, Makefile & Bash</td>
-      <td><a href="minishell">Minishell</a></td>
+      <td><a href="minishell">Minishell repo</a></td>
       <td><a href="./minishell/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>cub3d</td>
       <td>C, Makefile & minilibx</td>
-      <td><a href="Cube3D">cub3d</a></td>
+      <td><a href="Cube3D">cub3d repo</a></td>
       <td><a href="./Cube3D/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
@@ -127,64 +127,64 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>CPPModule00</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule00">CPP00</a></td>
+      <td><a href="./CPPModules/CPPModule00">CPP00 repo</a></td>
       <td><a href="./CPPModules/CPPModule00/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>CPPModule01</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule01">CPP01</a></td>
+      <td><a href="./CPPModules/CPPModule01">CPP01 repo</a></td>
       <td><a href="./CPPModules/CPPModule01/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>CPPModule02</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule02">CPP02</a></td>
+      <td><a href="./CPPModules/CPPModule02">CPP02 repo</a></td>
       <td><a href="./CPPModules/CPPModule02/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule03</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule03">CPP03</a></td>
+      <td><a href="./CPPModules/CPPModule03">CPP03 repo</a></td>
       <td><a href="./CPPModules/CPPModule03/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule04</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule04">CPP04</a></td>
+      <td><a href="./CPPModules/CPPModule04">CPP04 repo</a></td>
       <td><a href="./CPPModules/CPPModule04/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule05</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule05">CPP05</a></td>
+      <td><a href="./CPPModules/CPPModule05">CPP05 repo</a></td>
       <td><a href="./CPPModules/CPPModule05/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
     <td>CPPModule06</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule06">CPP06</a></td>
+      <td><a href="./CPPModules/CPPModule06">CPP06 repo</a></td>
       <td><a href="./CPPModules/CPPModule06/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule07</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule07">CPP07</a></td>
+      <td><a href="./CPPModules/CPPModule07">CPP07 repo</a></td>
       <td><a href="./CPPModules/CPPModule07/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule08</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule08">CPP08</a></td>
+      <td><a href="./CPPModules/CPPModule08">CPP08 repo</a></td>
       <td><a href="./CPPModules/CPPModule08/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <td>CPPModule09</td>
       <td>C++, Makefile</td>
-      <td><a href="./CPPModules/CPPModule09">CPP09</a></td>
+      <td><a href="./CPPModules/CPPModule09">CPP09 repo</a></td>
       <td><a href="./CPPModules/CPPModule09/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
@@ -198,14 +198,14 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>Inception</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
-      <td><a href="./inception">Inception</a></td>
+      <td><a href="./inception">Inception repo</a></td>
       <td><a href="./inception/Subject.pdf">Link to Subject</a></td></td>
       <td><a href="">See Desciption</a></td>
     </tr>
     <tr>
       <td>webserv</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
-      <td><a href="./webserv">webserv</a></td>
+      <td><a href="./webserv">webserv repo</a></td>
       <td><a href="./webserv/Subject.pdf">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>
@@ -219,7 +219,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
     <tr>
       <td>ft_transcendence</td>
       <td>NestJS, Vue3, PostgreSQL</td>
-      <td><a href="ft_transcendence">ft_transcendence</a></td>
+      <td><a href="ft_transcendence">ft_transcendence repo</a></td>
       <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Documentation/TS_practice">Link to Subject</a></td>
       <td><a href="">See Desciption</a></td>
     </tr>

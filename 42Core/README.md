@@ -100,8 +100,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>CPPModule01</td>
       <td>C++, Makefile</td>
-      <td><a href="CPPModule01">CPP01</a></td>
-      <td><a href="./CPPModule01/Subject.pdf">CPP01 Subject</a></td>
+      <td><a href="./CPPModules/CPPModule01">CPP01</a></td>
+      <td><a href="./CPPModules/CPPModule01/Subject.pdf">CPP01 Subject</a></td>
     </tr>
     <tr>
       <td>exam rank4</td>

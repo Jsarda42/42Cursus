@@ -66,7 +66,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C & Makefile</td>
       <td><a href="Push_Swap">Push swap repo</a></td>
       <td><a href="./Push_Swap/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Push_Swap/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>Minitalk</td>

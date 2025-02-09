@@ -183,7 +183,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
     </tr>
     <tr>
       <td>webserv</td>
-      <td>Docker, NGINX, WORDPRESS, MARIADB</td>
+      <td>HTTP protocol, multi-threading</td>
       <td><a href="./webserv">webserv repo</a></td>
       <td><a href="./webserv/Subject.pdf">Link to Subject</a></td>
       <td><a href="./webserv/README.md">See Desciption</a></td>

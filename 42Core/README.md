@@ -45,7 +45,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C & Makefile</td>
       <td><a href="ft_printf">ft_printf repo</a></td>
       <td><a href="./ft_printf/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./ft_printf/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>get_next_line</td>

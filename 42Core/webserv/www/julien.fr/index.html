@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>42 Web Server Test</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to 42 Web Server Test</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Static File Test</h2>
+            <p>This is a simple paragraph to test file delivery.</p>
+            <img src="/images/42-logo.png" alt="42 Logo" width="200">
+        </section>
+
+        <section>
+            <h2>Form Test (POST Request)</h2>
+            <form action="upload.php" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <br>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                <br>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+
+        <section>
+            <h2>Download Test</h2>
+            <a href="/files/test-file.txt" download>Download Test File</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 - 42 Web Server Test</p>
+    </footer>
+</body>
+</html>

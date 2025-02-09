@@ -166,8 +166,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>webserv</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
-      <td><a href="webserv">webserv</a></td>
-      <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Core/webserv/SimpleServer">SimpleServer</a></td>
+      <td><a href="./webserv">webserv</a></td>
+      <td><a href="./webserv/subject.pdf">Link to Subject</a></td>
     </tr>
     <tr>
       <td>exam rank 5</td>

@@ -154,14 +154,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>exam rank4</td>
       <td>C</td>
-      <td><a href="../42Documentation/Exam_Rank_04">Exam Rank 4 microshell</a></td>
       <td>N/A</td>
-    </tr>
-    <tr>
-      <td>ft_containers</td>
-      <td>C++, Makefile & STL</td>
-      <td><a href="ft_containers">ft containers</a></td>
-      <td><a href="ft_containers/srcs/main.cpp">ft containers tests</a></td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Inception</td>

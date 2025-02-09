@@ -167,7 +167,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>webserv</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
       <td><a href="./webserv">webserv</a></td>
-      <td><a href="./webserv/subject.pdf">Link to Subject</a></td>
+      <td><a href="./webserv/Subject.pdf">Link to Subject</a></td>
     </tr>
     <tr>
       <td>exam rank 5</td>

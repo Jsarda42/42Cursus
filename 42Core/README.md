@@ -88,7 +88,7 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>cub3d</td>
       <td>C, Makefile & minilibx</td>
-      <td><a href="Cub3D">cub3d</a></td>
+      <td><a href="Cube3D">cub3d</a></td>
       <td><a href="./Cube3D/Subject.pdf">Cube3d Subject</a></td>
     </tr>
     <tr>

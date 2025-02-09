@@ -2,7 +2,7 @@
 
 ---
 
-#### Here you will find some of the exercises I deveoped while studying at 42Paris
+#### Here you will find some of the exercises I developed while studying at 42Paris
 
 If you find this usefull im happy for you, but remember that copying won't do any good for you.
 Find your own solutions, and if you are inspired with mine im gladd 😉

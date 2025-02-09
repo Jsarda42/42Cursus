@@ -131,6 +131,12 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td><a href="./CPPModules/CPPModule05/Subject.pdf">CPP05 Subject</a></td>
     </tr>
     <tr>
+    <td>CPPModule06</td>
+      <td>C++, Makefile</td>
+      <td><a href="./CPPModules/CPPModule06">CPP06</a></td>
+      <td><a href="./CPPModules/CPPModule06/Subject.pdf">CPP06 Subject</a></td>
+    </tr>
+    <tr>
       <td>exam rank4</td>
       <td>C</td>
       <td><a href="../42Documentation/Exam_Rank_04">Exam Rank 4 microshell</a></td>

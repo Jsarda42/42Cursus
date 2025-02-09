@@ -190,10 +190,10 @@ If you are a student and you find this repository useful, I'm glad to share it w
     </tr>
     <tr>
       <td>ft_transcendence</td>
-      <td>NestJS, Vue3, PostgreSQL</td>
+      <td>HTML/CSS, Vanilla js, PostgreSQL, Django</td>
       <td><a href="ft_transcendence">ft_transcendence repo</a></td>
-      <td><a href="https://github.com/pulgamecanica/42Course/tree/main/42Documentation/TS_practice">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./ft_transcendence/Subject.pdf">Link to Subject</a></td>
+      <td><a href="./ft_transcendence/README.md">See Desciption</a></td>
     </tr>
   </tbody>
 </table>

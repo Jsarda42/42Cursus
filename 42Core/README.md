@@ -4,8 +4,21 @@
 
 #### Here you will find some of the exercises I developed while studying at 42Paris
 
-If you find this usefull im happy for you, but remember that copying won't do any good for you.
-Find your own solutions, and if you are inspired with mine im gladd 😉
+## Understand 42
+
+### What is 42 School?
+42 is a highly regarded coding school, particularly well-known in France, but also recognized in several other countries, including Korea and Japan. While its reputation is strong in tech communities, not everyone may be familiar with why it's so highly regarded by companies looking to hire new developers.
+
+Let me explain a bit about it:
+
+42 is not a traditional school with professors or grades. Instead, it uses a project-based curriculum that focuses on hands-on learning and problem-solving. This unique approach allows students to develop real-world skills, with an emphasis on collaboration, self-learning, and perseverance. The school has earned its reputation by producing skilled, adaptable developers who are capable of tackling complex challenges.
+
+### Project-Based Learning
+Keep in mind that this is a school project repository, so not everything here is perfect, and there's always room for improvement. The key takeaway from these projects is the evolution of my skills throughout the curriculum and the different technologies I've worked with. The goal is to highlight the knowledge gained through the development of these projects.
+
+Given my experience throughout the course, I might approach some projects differently now. This repository showcases my journey, and I hope it helps you understand the depth of learning that comes with each project.
+
+If you are a student and you find this repository useful, I'm glad to share it with you. However, remember that simply copying won't help you in the long run. Use these examples to inspire your own solutions, and don't hesitate to find your own approach to the challenges.
 
 ## Development Dependencies
 

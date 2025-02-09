@@ -160,8 +160,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>Inception</td>
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
-      <td><a href="Inception">Inception</a></td>
-      <td>N/A</td>
+      <td><a href="./inception">Inception</a></td>
+      <td><a href="./inception/Subject.pdf">Inception</a></td></td>
     </tr>
     <tr>
       <td>webserv</td>

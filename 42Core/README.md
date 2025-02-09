@@ -88,8 +88,8 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
     <tr>
       <td>cub3d</td>
       <td>C, Makefile & minilibx</td>
-      <td><a href="cub3d">cub3d</a></td>
-      <td><a href="https://github.com/pulgamecanica/RubyCaster">Ruby Caster Tool</a></td>
+      <td><a href="Cub3D">cub3d</a></td>
+      <td><a href="./Cube3D/Subject.pdf">Cube3d Subject</a></td>
     </tr>
     <tr>
       <td>NetPractice</td>

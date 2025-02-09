@@ -73,7 +73,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C, Makefile & UNIX</td>
       <td><a href="Minitalk">Minitalk repo</a></td>
       <td><a href="./Minitalk/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Minitalk/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>So_long</td>

@@ -1,0 +1,21 @@
+server {
+    listen 443 ssl;
+    server_name jsarda.42.fr www.jsarda.42.fr;
+
+    ssl_certificate /etc/nginx/certs/server.crt;
+    ssl_certificate_key /etc/nginx/certs/server.key;
+    ssl_protocols TLSv1.2 TLSv1.3;
+
+    root /var/www/html;
+    error_page 497 301 =307 https://$host:$server_port$request_uri;
+    index index.php;
+
+    location ~ [^/]\.php(/|$) { 
+        try_files $uri =404;
+        fastcgi_pass wordpress:9000;
+        include fastcgi_params;
+        # fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param SCRIPT_FILENAME /var/www/html$fastcgi_script_name;
+    }
+}
+

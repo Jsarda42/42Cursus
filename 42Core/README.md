@@ -98,10 +98,10 @@ Find your own solutions, and if you are inspired with mine im gladd 😉
       <td>N/A</td>
     </tr>
     <tr>
-      <td>CPPModules</td>
+      <td>CPPModule01</td>
       <td>C++, Makefile</td>
-      <td><a href="CPP_Piscine">CPP Piscine</a></td>
-      <td><a href="CPP_Piscine">CPP Piscine</a></td>
+      <td><a href="./CPPModules/CPPModule01">CPP01</a></td>
+      <td><a href="./CPPModules/CPPModule01/Subject.pdf">CPP01 Subject</a></td>
     </tr>
     <tr>
       <td>exam rank4</td>

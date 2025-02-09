@@ -58,8 +58,8 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>Born2beroot</td>
       <td>Linux & Shell</td>
       <td>[VM not available]</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Born2beRoot/Subject.pdf">Link to Subject</a></td>
+      <td><a href="./Born2beRoot/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>exam rank2</td>

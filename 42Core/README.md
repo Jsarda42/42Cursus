@@ -186,7 +186,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
       <td><a href="./webserv">webserv repo</a></td>
       <td><a href="./webserv/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./webserv/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>ft_transcendence</td>

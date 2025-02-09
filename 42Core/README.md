@@ -179,7 +179,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>Docker, NGINX, WORDPRESS, MARIADB</td>
       <td><a href="./inception">Inception repo</a></td>
       <td><a href="./inception/Subject.pdf">Link to Subject</a></td></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./inception/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>webserv</td>

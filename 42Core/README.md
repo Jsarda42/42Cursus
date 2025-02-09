@@ -52,7 +52,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C & Makefile</td>
       <td><a href="Gnl">get next line repo</a></td>
       <td><a href="./Gnl/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Gnl/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>Born2beroot</td>

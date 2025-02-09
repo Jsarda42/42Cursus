@@ -7,43 +7,45 @@
 
 ## Introduction
 
-**CPP Module 04** focuses on advanced object-oriented programming (OOP) techniques and introduces the **STL (Standard Template Library)**. The main objective of this module is to deepen your understanding of classes and templates in C++, and teach how to use **iterators**, **templates**, and **containers** from the C++ Standard Library.
+**CPP Module 04** dives into the concepts of **polymorphism**, **abstract classes**, and **interfaces** in C++. These are foundational concepts in **Object-Oriented Programming (OOP)**, and they allow you to design flexible and extensible systems that can easily be modified and extended.
 
-This module covers a variety of features, including the implementation of generic functions with templates, the creation of your own template classes, and an introduction to STL containers such as `std::vector`, `std::map`, and `std::set`. Additionally, students will gain a solid understanding of **smart pointers** and how to use them for automatic memory management.
+In this module, you will learn how **subtype polymorphism** enables different classes to be treated as instances of a common base class. You'll also study **abstract classes** and **interfaces**, which allow you to define common behavior while leaving the implementation details to derived classes. This helps in creating **clean, reusable, and extensible code**.
 
-The aim of the module is to enable students to write more flexible, efficient, and reusable code by using templates and STL containers.
+The module will help you understand the importance of **inheritance** and how to leverage it with **virtual functions** to implement polymorphic behavior.
 
 ## Features
 
-- **Templates**: Learn how to define and use templates in C++. Templates allow writing functions and classes that work with any data type, making your code more generic and reusable. You’ll learn about function templates, class templates, and template specialization.
+- **Subtype Polymorphism**: Learn how **subtype polymorphism** allows you to treat objects of different types as if they are instances of a common base class. This enables writing flexible code that can work with different types through a common interface.
 
-- **STL Containers**: Explore the powerful **Standard Template Library** (STL) in C++. Learn to use containers such as **`std::vector`**, **`std::map`**, and **`std::set`** for managing collections of data. These containers offer built-in functionality for adding, removing, and accessing data.
+- **Abstract Classes**: Understand **abstract classes**, which are classes that cannot be instantiated on their own but serve as blueprints for derived classes. Abstract classes can define abstract methods (pure virtual functions) that must be implemented in derived classes.
 
-- **Iterators**: Get introduced to **iterators**, which provide a standard way to access and traverse elements of containers. Learn to use iterators with STL containers and how they allow for easy manipulation of data.
+- **Interfaces**: Learn about **interfaces** in C++. In C++, interfaces are typically created using abstract classes with only pure virtual functions. They allow you to define common functionality that multiple classes can implement, without enforcing a particular inheritance structure.
 
-- **Smart Pointers**: Learn about **smart pointers**, such as **`std::unique_ptr`** and **`std::shared_ptr`**, which automatically manage the memory of dynamically allocated objects and prevent memory leaks.
+- **Pure Virtual Functions**: Explore the concept of **pure virtual functions**, which are functions declared in abstract classes that have no implementation. These functions must be overridden by derived classes to provide the specific functionality.
 
-- **Exception Handling**: While it may have been covered in previous modules, **exception handling** is revisited with more complex cases, including handling exceptions in template classes and STL containers.
+- **Virtual Functions**: Learn how **virtual functions** enable **runtime polymorphism** in C++. By declaring functions as virtual, you allow derived classes to provide their own implementation of the function, even when accessing them through pointers or references to the base class.
 
-- **Custom Template Classes**: Learn how to define your own template classes and how to use them effectively in larger programs. Custom templates allow for efficient memory and data management.
+- **Inheritance and Overriding**: Study how **inheritance** and **function overriding** work in C++. Learn how derived classes can inherit functionality from base classes and override methods to provide their own behavior.
+
+- **Design Patterns**: Understand how to design your classes with **polymorphism** and **abstract classes** to implement common design patterns such as the **Strategy Pattern** or **Factory Pattern**, which are useful in real-world software development.
 
 ## Lessons Learned
 
-1. **Templates in C++**: I learned how to define and use **function templates** and **class templates** in C++. This allows for the creation of generic functions and classes that work with any data type, reducing redundancy and improving code reusability.
+1. **Subtype Polymorphism**: I learned how **subtype polymorphism** allows objects of different classes to be treated as objects of a common base class. This enables writing more generic and reusable code that can handle a variety of objects without knowing their exact types.
 
-2. **STL Containers**: I became proficient in using **STL containers** such as **`std::vector`**, **`std::map`**, and **`std::set`**. These containers provide an efficient way to manage collections of data, offering built-in functions for adding, removing, and accessing elements.
+2. **Abstract Classes and Interfaces**: I understood the concept of **abstract classes** and how they serve as blueprints for derived classes. I also explored **interfaces** and how they allow multiple classes to implement the same set of functions without enforcing a specific inheritance hierarchy.
 
-3. **Iterators and STL**: I gained experience using **iterators** to traverse through elements in STL containers. This standard approach to data access and manipulation ensures consistency and flexibility when working with different types of data structures.
+3. **Pure Virtual Functions**: I learned about **pure virtual functions** and how they define an interface in abstract classes. These functions force derived classes to implement specific functionality, which provides flexibility and extensibility in object-oriented design.
 
-4. **Smart Pointers**: I learned about **smart pointers** and how they provide automatic memory management. By using **`std::unique_ptr`** and **`std::shared_ptr`**, I no longer need to manually manage the memory of dynamically allocated objects, reducing the risk of memory leaks.
+4. **Virtual Functions for Polymorphism**: I gained a deep understanding of **virtual functions** and how they enable **runtime polymorphism**. This allows derived class methods to be called through base class pointers or references, enabling more flexible and maintainable code.
 
-5. **Template Specialization**: I explored **template specialization**, which allows the creation of different implementations for a specific type, providing greater flexibility in handling different types of data.
+5. **Inheritance and Overriding**: I explored how **inheritance** allows derived classes to inherit functionality from base classes, and how I can **override** base class methods to provide more specific behavior in the derived class.
 
-6. **Exception Handling with Templates**: I revisited **exception handling** and learned how to handle exceptions in the context of template functions and classes. This knowledge helps in writing robust and fault-tolerant code.
+6. **Designing with Polymorphism**: I learned how to design my systems using **polymorphism** and **abstract classes** to make them more extensible and adaptable. I now have a better understanding of how to implement common design patterns that rely on polymorphic behavior, such as the **Strategy** and **Factory** patterns.
 
-7. **Custom Template Classes**: I learned how to design and implement custom template classes, which are useful for building complex data structures and algorithms that are type-independent.
+7. **Code Flexibility and Extensibility**: I realized that using **abstract classes** and **interfaces** makes my code more flexible and easier to extend. It allows me to add new behaviors or modify existing ones without modifying the entire system, which is a critical part of writing scalable software.
 
-8. **Efficient and Reusable Code**: By utilizing **templates** and **STL containers**, I learned how to write more **efficient**, **modular**, and **reusable** code. Templates allow me to create generic algorithms, while STL containers help in managing data effectively.
+8. **Best Practices for Object-Oriented Design**: I improved my ability to use **OOP principles** like **inheritance**, **polymorphism**, and **abstraction** to design clean, maintainable, and reusable code. I now know how to apply these principles to solve complex problems efficiently.
 
 ---
 

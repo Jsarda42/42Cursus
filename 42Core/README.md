@@ -87,7 +87,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C, Makefile & Unix Threads</td>
       <td><a href="Philosophers">Philosophers repo</a></td>
       <td><a href="./Philosophers/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Philosophers/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>Minishell</td>

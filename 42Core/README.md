@@ -107,8 +107,8 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>NetPractice</td>
       <td>UNIX & Routers</td>
       <td>N/A</td>
-      <td>N/A</td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./NetPractice/Subject.pdf">Link to Subject</a></td>
+      <td><a href="./NetPractice/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>CPPModule00</td>

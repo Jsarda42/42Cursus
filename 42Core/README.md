@@ -38,7 +38,7 @@ If you are a student and you find this repository useful, I'm glad to share it w
       <td>C & Makefile</td>
       <td><a href="Libft">Libft repo</a></td>
       <td><a href="./Libft/Subject.pdf">Link to Subject</a></td>
-      <td><a href="">See Desciption</a></td>
+      <td><a href="./Libft/README.md">See Desciption</a></td>
     </tr>
     <tr>
       <td>ft_printf</td>

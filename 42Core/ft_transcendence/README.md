@@ -47,7 +47,7 @@ I was involved in all aspects of the project but took on the role of **project m
 
 6. **Team Collaboration**: Working with a team of 5 gave me insights into the importance of communication and collaboration. We used **Git** for version control and **GitHub** for code reviews and tracking progress. I learned how to manage pull requests, resolve merge conflicts, and maintain a clean repository.
 
-7. **Agile Workflow and Task Management**: By organizing tasks and setting deadlines, I learned how to manage projects in an agile manner. I used tools like **Trello** and **Slack** to ensure smooth communication and task tracking throughout the project.
+7. **Agile Workflow and Task Management**: By organizing tasks and setting deadlines, I learned how to manage projects in an agile manner. I used tools like **ClickUp** to ensure smooth communication and task tracking throughout the project.
 
 8. **Error Handling and Debugging**: Through the development process, I encountered several debugging challenges, especially with database queries, JavaScript errors, and cross-browser compatibility issues. I improved my problem-solving skills by troubleshooting and fixing issues in the codebase.
 
